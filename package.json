@@ -1,0 +1,19 @@
+{
+  "name": "bigfootgraphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhukovka/bigfootGraphql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhukovka/bigfootGraphql/issues"
+  },
+  "homepage": "https://github.com/zhukovka/bigfootGraphql#readme"
+}
