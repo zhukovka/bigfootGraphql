@@ -1,22 +1,12 @@
 console.log("hello 42!");
 
-import { graphql, buildSchema } from 'graphql';
+if ("serviceWorker" in navigator) {
+    navigator.serviceWorker.register("/serviceworker.js")
+        .then(function (registration) {
+            console.log("Service Worker registered with scope:", registration.scope);
+            fetch('http://i0.kym-cdn.com/entries/icons/original/000/002/232/bullet_cat.jpg');
+        }).catch(function (err) {
+        console.log("Service worker registration failed:", err);
+    });
+}
 
-// Construct a schema, using GraphQL schema language
-var schema = buildSchema(`
-  type Query {
-    hello: String
-  }
-`);
-
-// The root provides a resolver function for each API endpoint
-var root = {
-    hello: () => {
-        return 'Hello world!';
-    },
-};
-
-// Run the GraphQL query '{ hello }' and print out the response
-graphql(schema, '{ hello }', root).then((response) => {
-    console.log(response);
-});
