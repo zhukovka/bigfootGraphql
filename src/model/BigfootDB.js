@@ -43,6 +43,12 @@ export default class BigfootDB {
         });
     }
 
+    /**
+     *
+     * @param storeName:string
+     * @param transactionMode: IDBTransaction.mode
+     * @returns {Promise<IDBObjectStore>}
+     */
     async openStore (storeName, transactionMode) {
         const db = await this.connect();
         return db
@@ -61,10 +67,31 @@ export default class BigfootDB {
         s.clear().onsuccess = success;
     }
 
-//    collection('matches').find();
-    async collection (storeName, transactionMode = "readonly") {
+    collection (storeName, transactionMode = "readonly") {
+        const s = this.openStore(storeName, transactionMode);
+        return new DBResult(s);
+    }
+}
+
+
+class DBResult {
+
+    /**
+     *
+     * @param store{Promise<IDBObjectStore>}
+     */
+    constructor (store) {
+        this.store = store;
+    }
+
+    /**
+     *
+     * @param search
+     * @returns {Promise<Array>}
+     */
+    find (search) {
         return new Promise(async (resolve, reject) => {
-            const s = await this.openStore(storeName, transactionMode);
+            const s = await this.store;
             const cursor = s.openCursor();
             let results = [];
             cursor.onsuccess = function (event) {
@@ -77,6 +104,9 @@ export default class BigfootDB {
             };
             cursor.onerror = reject;
         })
+    }
+
+    toArray () {
 
     }
 }
