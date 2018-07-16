@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/zhukovka/bigfootGraphql#readme",
   "dependencies": {
+    "express": "^4.16.3",
     "graphql": "^0.13.2"
   },
   "devDependencies": {

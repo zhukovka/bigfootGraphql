@@ -1,0 +1,6238 @@
+{
+  "id": "charmed20",
+  "name": "charmed20",
+  "masterId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+  "scanIds": [
+    "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A1.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A2.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A3.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A4.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A5.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A6.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A7.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A10.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A8.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A11.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A12.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A13.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A14.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A15.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A16.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A9.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A19.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A20.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A21.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A22.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A23.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A24.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A25.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A26.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A27.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A30.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A36.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A28.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A29.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A41.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A42.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A43.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A44.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A45.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A46.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A47.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_A48.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_A49.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B01.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B02.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B03.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B04.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B05.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B23.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_A54.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_A58.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B06.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B07.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B08.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B09.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B29.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B30.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B31.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_B34.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_C01.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_C02.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_C03.mov",
+    "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_C04.mov"
+  ],
+  "status": "READY",
+  "matches": [
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 2298,
+        "end": 2317
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B08.mov",
+        "start": 644,
+        "end": 663
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 2318,
+        "end": 2367
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B08.mov",
+        "start": 683,
+        "end": 732
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 2368,
+        "end": 2647
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B08.mov",
+        "start": 4394,
+        "end": 4673
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 2648,
+        "end": 2677
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A10.mov",
+        "start": 1011,
+        "end": 1040
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 2678,
+        "end": 2687
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B09.mov",
+        "start": 1378,
+        "end": 1387
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 2688,
+        "end": 2732
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A11.mov",
+        "start": 6636,
+        "end": 6680
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 2733,
+        "end": 2791
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A11.mov",
+        "start": 12073,
+        "end": 12131
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 2792,
+        "end": 2895
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A11.mov",
+        "start": 4862,
+        "end": 4965
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 2896,
+        "end": 2971
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A11.mov",
+        "start": 10545,
+        "end": 10620
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 2972,
+        "end": 3156
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A11.mov",
+        "start": 6963,
+        "end": 7147
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 3157,
+        "end": 3185
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A11.mov",
+        "start": 12444,
+        "end": 12472
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 3186,
+        "end": 3213
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A10.mov",
+        "start": 4941,
+        "end": 4968
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 3214,
+        "end": 3238
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A11.mov",
+        "start": 5255,
+        "end": 5279
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 3239,
+        "end": 3351
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A11.mov",
+        "start": 9611,
+        "end": 9723
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 3352,
+        "end": 3453
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A11.mov",
+        "start": 5436,
+        "end": 5537
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 3454,
+        "end": 3506
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A11.mov",
+        "start": 12698,
+        "end": 12750
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 3507,
+        "end": 3582
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A11.mov",
+        "start": 7579,
+        "end": 7654
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 3583,
+        "end": 3748
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A11.mov",
+        "start": 12928,
+        "end": 13093
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 3749,
+        "end": 3802
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A11.mov",
+        "start": 6010,
+        "end": 6063
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 3803,
+        "end": 3807
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A11.mov",
+        "start": 6067,
+        "end": 6071
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 3808,
+        "end": 3871
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A11.mov",
+        "start": 13158,
+        "end": 13221
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 3872,
+        "end": 3902
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A12.mov",
+        "start": 1125,
+        "end": 1155
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 3921,
+        "end": 3945
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A10.mov",
+        "start": 5992,
+        "end": 6016
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 3946,
+        "end": 4023
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A12.mov",
+        "start": 1179,
+        "end": 1256
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 4024,
+        "end": 4130
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A10.mov",
+        "start": 11485,
+        "end": 11591
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 4131,
+        "end": 4220
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A12.mov",
+        "start": 1360,
+        "end": 1449
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 4221,
+        "end": 4275
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A10.mov",
+        "start": 11691,
+        "end": 11745
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 4276,
+        "end": 4382
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A12.mov",
+        "start": 1522,
+        "end": 1628
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 4383,
+        "end": 4460
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A10.mov",
+        "start": 6551,
+        "end": 6628
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 4461,
+        "end": 4494
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A12.mov",
+        "start": 6360,
+        "end": 6393
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 4495,
+        "end": 4522
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A10.mov",
+        "start": 9919,
+        "end": 9946
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 4523,
+        "end": 4578
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A12.mov",
+        "start": 8315,
+        "end": 8370
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 4579,
+        "end": 4850
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A10.mov",
+        "start": 10179,
+        "end": 10450
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 4851,
+        "end": 4927
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A12.mov",
+        "start": 8585,
+        "end": 8661
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 4928,
+        "end": 5016
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A10.mov",
+        "start": 12694,
+        "end": 12782
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 5017,
+        "end": 5120
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A12.mov",
+        "start": 8738,
+        "end": 8841
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 5121,
+        "end": 5265
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A10.mov",
+        "start": 10734,
+        "end": 10878
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 5266,
+        "end": 5296
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A12.mov",
+        "start": 8973,
+        "end": 9003
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 5297,
+        "end": 5328
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A12.mov",
+        "start": 441,
+        "end": 472
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 5336,
+        "end": 5347
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A12.mov",
+        "start": 551,
+        "end": 562
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 5348,
+        "end": 5363
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A12.mov",
+        "start": 563,
+        "end": 578
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 5364,
+        "end": 5375
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A11.mov",
+        "start": 1592,
+        "end": 1603
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 5376,
+        "end": 5386
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B08.mov",
+        "start": 13951,
+        "end": 13961
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 5469,
+        "end": 5514
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B08.mov",
+        "start": 14344,
+        "end": 14389
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 5515,
+        "end": 5612
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B09.mov",
+        "start": 6571,
+        "end": 6668
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 5613,
+        "end": 5700
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B08.mov",
+        "start": 14408,
+        "end": 14495
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 5776,
+        "end": 5952
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A26.mov",
+        "start": 10341,
+        "end": 10517
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 5953,
+        "end": 6035
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A26.mov",
+        "start": 13707,
+        "end": 13789
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 6036,
+        "end": 6150
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A26.mov",
+        "start": 10604,
+        "end": 10718
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 6151,
+        "end": 6179
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A26.mov",
+        "start": 13891,
+        "end": 13919
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 6180,
+        "end": 6237
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A26.mov",
+        "start": 10748,
+        "end": 10805
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 6238,
+        "end": 6390
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A26.mov",
+        "start": 14085,
+        "end": 14237
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 6391,
+        "end": 6467
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A26.mov",
+        "start": 10960,
+        "end": 11036
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 6662,
+        "end": 6817
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A27.mov",
+        "start": 3409,
+        "end": 3564
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 6818,
+        "end": 7014
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A28.mov",
+        "start": 6126,
+        "end": 6322
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 7015,
+        "end": 7129
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A28.mov",
+        "start": 3615,
+        "end": 3729
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 7130,
+        "end": 7186
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A28.mov",
+        "start": 10616,
+        "end": 10672
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 7187,
+        "end": 7196
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A28.mov",
+        "start": 688,
+        "end": 697
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 7197,
+        "end": 7248
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A28.mov",
+        "start": 3842,
+        "end": 3893
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 7249,
+        "end": 7327
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A28.mov",
+        "start": 10743,
+        "end": 10821
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 7328,
+        "end": 7533
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A28.mov",
+        "start": 3929,
+        "end": 4134
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 7534,
+        "end": 7566
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A28.mov",
+        "start": 11065,
+        "end": 11097
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 7567,
+        "end": 7595
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A28.mov",
+        "start": 1190,
+        "end": 1218
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 7596,
+        "end": 7710
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A28.mov",
+        "start": 11127,
+        "end": 11241
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 7711,
+        "end": 7827
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A28.mov",
+        "start": 1326,
+        "end": 1442
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 7828,
+        "end": 7874
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A28.mov",
+        "start": 13742,
+        "end": 13788
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 7875,
+        "end": 7930
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A27.mov",
+        "start": 2952,
+        "end": 3007
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 10586,
+        "end": 10953
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A25.mov",
+        "start": 1114,
+        "end": 1481
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 10954,
+        "end": 11060
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A25.mov",
+        "start": 2763,
+        "end": 2869
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 11061,
+        "end": 11165
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A25.mov",
+        "start": 1583,
+        "end": 1687
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 11166,
+        "end": 11618
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A16.mov",
+        "start": 2255,
+        "end": 2707
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 11619,
+        "end": 11699
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A16.mov",
+        "start": 8674,
+        "end": 8754
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 11700,
+        "end": 11739
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A16.mov",
+        "start": 7705,
+        "end": 7744
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 11740,
+        "end": 11793
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A16.mov",
+        "start": 8837,
+        "end": 8890
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 11794,
+        "end": 11940
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A16.mov",
+        "start": 4094,
+        "end": 4240
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 11941,
+        "end": 11989
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A16.mov",
+        "start": 10638,
+        "end": 10686
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 11990,
+        "end": 12031
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A16.mov",
+        "start": 4245,
+        "end": 4286
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 12032,
+        "end": 12079
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A16.mov",
+        "start": 10268,
+        "end": 10315
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 12080,
+        "end": 12087
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A16.mov",
+        "start": 4291,
+        "end": 4298
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 12120,
+        "end": 12181
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A16.mov",
+        "start": 10341,
+        "end": 10402
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 12182,
+        "end": 12262
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A19.mov",
+        "start": 8323,
+        "end": 8403
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 12263,
+        "end": 12293
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A20.mov",
+        "start": 1553,
+        "end": 1583
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 12294,
+        "end": 12336
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A19.mov",
+        "start": 3186,
+        "end": 3228
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 12337,
+        "end": 12441
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A19.mov",
+        "start": 488,
+        "end": 592
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 12442,
+        "end": 12473
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A19.mov",
+        "start": 3363,
+        "end": 3394
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 12474,
+        "end": 12553
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A20.mov",
+        "start": 9304,
+        "end": 9383
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 12594,
+        "end": 12622
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A19.mov",
+        "start": 6115,
+        "end": 6143
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 12623,
+        "end": 12658
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A20.mov",
+        "start": 9425,
+        "end": 9460
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 12659,
+        "end": 12679
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A20.mov",
+        "start": 1847,
+        "end": 1867
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 12680,
+        "end": 12717
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A20.mov",
+        "start": 9469,
+        "end": 9506
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 12718,
+        "end": 12783
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A20.mov",
+        "start": 1878,
+        "end": 1943
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 12784,
+        "end": 12894
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A20.mov",
+        "start": 9564,
+        "end": 9674
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 12895,
+        "end": 12913
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A20.mov",
+        "start": 2556,
+        "end": 2574
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 12914,
+        "end": 12950
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A19.mov",
+        "start": 3748,
+        "end": 3784
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 13080,
+        "end": 13134
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A19.mov",
+        "start": 6560,
+        "end": 6614
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 13246,
+        "end": 13280
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A19.mov",
+        "start": 6685,
+        "end": 6719
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 13281,
+        "end": 13341
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A20.mov",
+        "start": 10066,
+        "end": 10126
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 13342,
+        "end": 13403
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A20.mov",
+        "start": 911,
+        "end": 972
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 13404,
+        "end": 13453
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A20.mov",
+        "start": 10199,
+        "end": 10248
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 13454,
+        "end": 13522
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A20.mov",
+        "start": 2620,
+        "end": 2688
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 13573,
+        "end": 13614
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A19.mov",
+        "start": 6041,
+        "end": 6082
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 13742,
+        "end": 13775
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A19.mov",
+        "start": 9716,
+        "end": 9749
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 14022,
+        "end": 14096
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A19.mov",
+        "start": 7201,
+        "end": 7275
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 14274,
+        "end": 14417
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A19.mov",
+        "start": 10170,
+        "end": 10313
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 14418,
+        "end": 14437
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A19.mov",
+        "start": 7511,
+        "end": 7530
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 14440,
+        "end": 14531
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A19.mov",
+        "start": 7750,
+        "end": 7841
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 14533,
+        "end": 14547
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A19.mov",
+        "start": 7847,
+        "end": 7861
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 15273,
+        "end": 15307
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A26.mov",
+        "start": 1860,
+        "end": 1894
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 19371,
+        "end": 19589
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A1.mov",
+        "start": 6193,
+        "end": 6411
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 19590,
+        "end": 19823
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A2.mov",
+        "start": 865,
+        "end": 1098
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 19824,
+        "end": 19991
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A2.mov",
+        "start": 10705,
+        "end": 10872
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 19992,
+        "end": 20098
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A2.mov",
+        "start": 1315,
+        "end": 1421
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 20099,
+        "end": 20145
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A2.mov",
+        "start": 10999,
+        "end": 11045
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 20146,
+        "end": 20246
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A2.mov",
+        "start": 1469,
+        "end": 1569
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 20247,
+        "end": 20298
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A2.mov",
+        "start": 11147,
+        "end": 11198
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 20299,
+        "end": 20459
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A2.mov",
+        "start": 1633,
+        "end": 1793
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 20460,
+        "end": 20557
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A2.mov",
+        "start": 11387,
+        "end": 11484
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 20558,
+        "end": 20598
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A2.mov",
+        "start": 1938,
+        "end": 1978
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 20599,
+        "end": 20668
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B02.mov",
+        "start": 1901,
+        "end": 1970
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 20669,
+        "end": 20712
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A1.mov",
+        "start": 12755,
+        "end": 12798
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 20713,
+        "end": 20825
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B02.mov",
+        "start": 1994,
+        "end": 2106
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 20826,
+        "end": 20899
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A2.mov",
+        "start": 2212,
+        "end": 2285
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 20900,
+        "end": 20945
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B01.mov",
+        "start": 11786,
+        "end": 11831
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 20946,
+        "end": 21070
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A2.mov",
+        "start": 2349,
+        "end": 2473
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 21071,
+        "end": 21224
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A2.mov",
+        "start": 12071,
+        "end": 12224
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 21225,
+        "end": 21271
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A2.mov",
+        "start": 2615,
+        "end": 2661
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 21272,
+        "end": 21386
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B02.mov",
+        "start": 2627,
+        "end": 2741
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 21387,
+        "end": 21650
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A1.mov",
+        "start": 13625,
+        "end": 13888
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 21651,
+        "end": 21692
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B02.mov",
+        "start": 2991,
+        "end": 3032
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 21693,
+        "end": 21831
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A2.mov",
+        "start": 3120,
+        "end": 3258
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 21832,
+        "end": 21882
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B01.mov",
+        "start": 13015,
+        "end": 13065
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 21883,
+        "end": 21903
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B01.mov",
+        "start": 13082,
+        "end": 13102
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 21904,
+        "end": 21967
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B01.mov",
+        "start": 4076,
+        "end": 4139
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 21968,
+        "end": 22233
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B01.mov",
+        "start": 13164,
+        "end": 13429
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 22234,
+        "end": 22293
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B01.mov",
+        "start": 8495,
+        "end": 8554
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 22294,
+        "end": 22481
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B01.mov",
+        "start": 13518,
+        "end": 13705
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 22482,
+        "end": 22516
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A2.mov",
+        "start": 3930,
+        "end": 3964
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 22517,
+        "end": 22573
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A2.mov",
+        "start": 3975,
+        "end": 4031
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 22574,
+        "end": 22693
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B01.mov",
+        "start": 13858,
+        "end": 13977
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 22694,
+        "end": 22903
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A2.mov",
+        "start": 4180,
+        "end": 4389
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 24864,
+        "end": 24999
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A24.mov",
+        "start": 11334,
+        "end": 11469
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 25056,
+        "end": 25105
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A36.mov",
+        "start": 539,
+        "end": 588
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 25106,
+        "end": 25124
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A36.mov",
+        "start": 590,
+        "end": 608
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 25546,
+        "end": 25657
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A36.mov",
+        "start": 1240,
+        "end": 1351
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 27680,
+        "end": 27728
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A36.mov",
+        "start": 3365,
+        "end": 3413
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 28633,
+        "end": 29026
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A21.mov",
+        "start": 8910,
+        "end": 9303
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 29027,
+        "end": 29153
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A23.mov",
+        "start": 4106,
+        "end": 4232
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 29154,
+        "end": 29350
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A21.mov",
+        "start": 9447,
+        "end": 9643
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 29351,
+        "end": 29399
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A22.mov",
+        "start": 10651,
+        "end": 10699
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 29400,
+        "end": 29424
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A22.mov",
+        "start": 1193,
+        "end": 1217
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 29425,
+        "end": 29466
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A22.mov",
+        "start": 1222,
+        "end": 1263
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 29467,
+        "end": 29660
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A23.mov",
+        "start": 4529,
+        "end": 4722
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 29661,
+        "end": 29689
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A22.mov",
+        "start": 1473,
+        "end": 1501
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 29690,
+        "end": 29730
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A23.mov",
+        "start": 4784,
+        "end": 4824
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 29731,
+        "end": 29788
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A22.mov",
+        "start": 1561,
+        "end": 1618
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 29942,
+        "end": 29984
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A22.mov",
+        "start": 1738,
+        "end": 1780
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 29985,
+        "end": 30027
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A24.mov",
+        "start": 13142,
+        "end": 13184
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30028,
+        "end": 30066
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A23.mov",
+        "start": 5002,
+        "end": 5040
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30067,
+        "end": 30135
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A22.mov",
+        "start": 1857,
+        "end": 1925
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30136,
+        "end": 30201
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A22.mov",
+        "start": 11428,
+        "end": 11493
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30202,
+        "end": 30227
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_A58.mov",
+        "start": 6040,
+        "end": 6065
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30228,
+        "end": 30249
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A22.mov",
+        "start": 2013,
+        "end": 2034
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30250,
+        "end": 30301
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A22.mov",
+        "start": 11494,
+        "end": 11545
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30302,
+        "end": 30346
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_A58.mov",
+        "start": 6069,
+        "end": 6113
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30347,
+        "end": 30386
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A23.mov",
+        "start": 5405,
+        "end": 5444
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30387,
+        "end": 30475
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A22.mov",
+        "start": 2076,
+        "end": 2164
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30476,
+        "end": 30486
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A22.mov",
+        "start": 4593,
+        "end": 4603
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30488,
+        "end": 30503
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_A58.mov",
+        "start": 3245,
+        "end": 3260
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30504,
+        "end": 30504
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_A58.mov",
+        "start": 3263,
+        "end": 3263
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30508,
+        "end": 30508
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_A58.mov",
+        "start": 3267,
+        "end": 3267
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30512,
+        "end": 30512
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_A58.mov",
+        "start": 3271,
+        "end": 3271
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30516,
+        "end": 30516
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_A58.mov",
+        "start": 3275,
+        "end": 3275
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30520,
+        "end": 30520
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_A58.mov",
+        "start": 3279,
+        "end": 3279
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30524,
+        "end": 30524
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_A58.mov",
+        "start": 3284,
+        "end": 3284
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30527,
+        "end": 30527
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_B34.mov",
+        "start": 4246,
+        "end": 4246
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30530,
+        "end": 30530
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_B34.mov",
+        "start": 4005,
+        "end": 4005
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30534,
+        "end": 30534
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_B34.mov",
+        "start": 4010,
+        "end": 4010
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30538,
+        "end": 30538
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_B34.mov",
+        "start": 4014,
+        "end": 4014
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30542,
+        "end": 30542
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_B34.mov",
+        "start": 4018,
+        "end": 4018
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30546,
+        "end": 30546
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_B34.mov",
+        "start": 4022,
+        "end": 4022
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30560,
+        "end": 30591
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A22.mov",
+        "start": 4662,
+        "end": 4693
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30592,
+        "end": 30635
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A22.mov",
+        "start": 11698,
+        "end": 11741
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30636,
+        "end": 30710
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A22.mov",
+        "start": 2339,
+        "end": 2413
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30711,
+        "end": 30758
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A22.mov",
+        "start": 11726,
+        "end": 11773
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30759,
+        "end": 30815
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A22.mov",
+        "start": 2462,
+        "end": 2518
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30816,
+        "end": 30838
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_A58.mov",
+        "start": 634,
+        "end": 656
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30839,
+        "end": 30862
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A22.mov",
+        "start": 11978,
+        "end": 12001
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30863,
+        "end": 30886
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A22.mov",
+        "start": 2539,
+        "end": 2562
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30887,
+        "end": 30893
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A22.mov",
+        "start": 2563,
+        "end": 2569
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30894,
+        "end": 30905
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_B34.mov",
+        "start": 3116,
+        "end": 3127
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30906,
+        "end": 30936
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_A58.mov",
+        "start": 3935,
+        "end": 3965
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30937,
+        "end": 30947
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_A58.mov",
+        "start": 4137,
+        "end": 4147
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30948,
+        "end": 30975
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A22.mov",
+        "start": 2595,
+        "end": 2622
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 30976,
+        "end": 31004
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A23.mov",
+        "start": 5900,
+        "end": 5928
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 31005,
+        "end": 31066
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A22.mov",
+        "start": 2652,
+        "end": 2713
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 31067,
+        "end": 31163
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A23.mov",
+        "start": 5937,
+        "end": 6033
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 31164,
+        "end": 31262
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A22.mov",
+        "start": 2811,
+        "end": 2909
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 31263,
+        "end": 31292
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A22.mov",
+        "start": 12318,
+        "end": 12347
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 31293,
+        "end": 31634
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A22.mov",
+        "start": 2969,
+        "end": 3310
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 31635,
+        "end": 31678
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A23.mov",
+        "start": 3374,
+        "end": 3417
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 31679,
+        "end": 31825
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A23.mov",
+        "start": 9086,
+        "end": 9232
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 31826,
+        "end": 31871
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A24.mov",
+        "start": 7168,
+        "end": 7213
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 31872,
+        "end": 31970
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A23.mov",
+        "start": 9281,
+        "end": 9379
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 31971,
+        "end": 32061
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A24.mov",
+        "start": 4492,
+        "end": 4582
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 32062,
+        "end": 32109
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A23.mov",
+        "start": 12540,
+        "end": 12587
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 32110,
+        "end": 32128
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A24.mov",
+        "start": 4639,
+        "end": 4657
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 32129,
+        "end": 32171
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A24.mov",
+        "start": 4660,
+        "end": 4702
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 32172,
+        "end": 32395
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A23.mov",
+        "start": 9588,
+        "end": 9811
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 32396,
+        "end": 32469
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A24.mov",
+        "start": 4999,
+        "end": 5072
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 32470,
+        "end": 32472
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A24.mov",
+        "start": 5157,
+        "end": 5159
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 32473,
+        "end": 32531
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A23.mov",
+        "start": 9905,
+        "end": 9963
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 32532,
+        "end": 32550
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A24.mov",
+        "start": 1527,
+        "end": 1545
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 32551,
+        "end": 32598
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A23.mov",
+        "start": 10000,
+        "end": 10047
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 32599,
+        "end": 32664
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A24.mov",
+        "start": 1619,
+        "end": 1684
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 32665,
+        "end": 32909
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A23.mov",
+        "start": 10148,
+        "end": 10392
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 33067,
+        "end": 33106
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A41.mov",
+        "start": 3953,
+        "end": 3992
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 33232,
+        "end": 33286
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A41.mov",
+        "start": 4182,
+        "end": 4236
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 33337,
+        "end": 33366
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A41.mov",
+        "start": 1444,
+        "end": 1473
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 33367,
+        "end": 33482
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A41.mov",
+        "start": 4331,
+        "end": 4446
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 33483,
+        "end": 33517
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B23.mov",
+        "start": 1006,
+        "end": 1040
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 33518,
+        "end": 33563
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B23.mov",
+        "start": 1043,
+        "end": 1088
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 33564,
+        "end": 33575
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A41.mov",
+        "start": 4610,
+        "end": 4621
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 33576,
+        "end": 33599
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A41.mov",
+        "start": 4742,
+        "end": 4765
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 33600,
+        "end": 33634
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B23.mov",
+        "start": 1215,
+        "end": 1249
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 33635,
+        "end": 33755
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A41.mov",
+        "start": 4802,
+        "end": 4922
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 33756,
+        "end": 33756
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A23.mov",
+        "start": 6625,
+        "end": 6625
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 33757,
+        "end": 33831
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B23.mov",
+        "start": 4128,
+        "end": 4202
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 33832,
+        "end": 33883
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A41.mov",
+        "start": 4999,
+        "end": 5050
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 33884,
+        "end": 33901
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B23.mov",
+        "start": 4231,
+        "end": 4248
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 33902,
+        "end": 33922
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B23.mov",
+        "start": 4362,
+        "end": 4382
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 33923,
+        "end": 33963
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B23.mov",
+        "start": 4392,
+        "end": 4432
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 33964,
+        "end": 34092
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A41.mov",
+        "start": 5127,
+        "end": 5255
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 34093,
+        "end": 34098
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A24.mov",
+        "start": 200,
+        "end": 205
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 34099,
+        "end": 34103
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A8.mov",
+        "start": 9820,
+        "end": 9824
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 34106,
+        "end": 34139
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A42.mov",
+        "start": 1588,
+        "end": 1621
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 34283,
+        "end": 34539
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B23.mov",
+        "start": 4727,
+        "end": 4983
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 34560,
+        "end": 34567
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A42.mov",
+        "start": 1708,
+        "end": 1715
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 34568,
+        "end": 34568
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A41.mov",
+        "start": 13187,
+        "end": 13187
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 34569,
+        "end": 34569
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A23.mov",
+        "start": 3515,
+        "end": 3515
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 34570,
+        "end": 34572
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A24.mov",
+        "start": 5289,
+        "end": 5291
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 34573,
+        "end": 34593
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A42.mov",
+        "start": 1760,
+        "end": 1780
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 34594,
+        "end": 34606
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A42.mov",
+        "start": 1847,
+        "end": 1859
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 34607,
+        "end": 34661
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A41.mov",
+        "start": 9985,
+        "end": 10039
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 34721,
+        "end": 34751
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A42.mov",
+        "start": 1862,
+        "end": 1892
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 34876,
+        "end": 34901
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A41.mov",
+        "start": 10200,
+        "end": 10225
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 34902,
+        "end": 34935
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A42.mov",
+        "start": 2068,
+        "end": 2101
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 34936,
+        "end": 35011
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B23.mov",
+        "start": 5309,
+        "end": 5384
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 35021,
+        "end": 35042
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A42.mov",
+        "start": 4258,
+        "end": 4279
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 35124,
+        "end": 35176
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A41.mov",
+        "start": 10365,
+        "end": 10417
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 35241,
+        "end": 35295
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_A48.mov",
+        "start": 4601,
+        "end": 4655
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 35296,
+        "end": 35377
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_C03.mov",
+        "start": 1178,
+        "end": 1259
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 35378,
+        "end": 35413
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_C03.mov",
+        "start": 5496,
+        "end": 5531
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 35414,
+        "end": 35435
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_C03.mov",
+        "start": 3023,
+        "end": 3044
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 35436,
+        "end": 35486
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_C03.mov",
+        "start": 6432,
+        "end": 6482
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 35487,
+        "end": 35506
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_C03.mov",
+        "start": 3055,
+        "end": 3074
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 35507,
+        "end": 35531
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_C03.mov",
+        "start": 6533,
+        "end": 6557
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 35532,
+        "end": 35621
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_C03.mov",
+        "start": 8204,
+        "end": 8293
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 35622,
+        "end": 35670
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_C03.mov",
+        "start": 8295,
+        "end": 8343
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 35698,
+        "end": 35862
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_C03.mov",
+        "start": 9054,
+        "end": 9218
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 35863,
+        "end": 35884
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_A48.mov",
+        "start": 7845,
+        "end": 7866
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 35885,
+        "end": 35916
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_C03.mov",
+        "start": 9355,
+        "end": 9386
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 35922,
+        "end": 36369
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_C03.mov",
+        "start": 13500,
+        "end": 13947
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 36370,
+        "end": 36457
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_C04.mov",
+        "start": 1051,
+        "end": 1138
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 36458,
+        "end": 36618
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_A48.mov",
+        "start": 6314,
+        "end": 6474
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 36619,
+        "end": 36621
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_C04.mov",
+        "start": 1302,
+        "end": 1304
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 36622,
+        "end": 36668
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_C04.mov",
+        "start": 1306,
+        "end": 1352
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 36669,
+        "end": 36728
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_A48.mov",
+        "start": 6525,
+        "end": 6584
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 36729,
+        "end": 36849
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_C03.mov",
+        "start": 14337,
+        "end": 14457
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 36850,
+        "end": 36885
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_C04.mov",
+        "start": 3111,
+        "end": 3146
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 36886,
+        "end": 37288
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_C03.mov",
+        "start": 14482,
+        "end": 14884
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 37289,
+        "end": 37328
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_C03.mov",
+        "start": 16239,
+        "end": 16278
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 37343,
+        "end": 37346
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_C03.mov",
+        "start": 16288,
+        "end": 16291
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 37355,
+        "end": 37382
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_A49.mov",
+        "start": 12169,
+        "end": 12196
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 37394,
+        "end": 37497
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_C03.mov",
+        "start": 16355,
+        "end": 16458
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 37498,
+        "end": 37548
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_C03.mov",
+        "start": 17905,
+        "end": 17955
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 37549,
+        "end": 37678
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_C03.mov",
+        "start": 16539,
+        "end": 16668
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 37679,
+        "end": 37701
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_C03.mov",
+        "start": 18062,
+        "end": 18084
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 37702,
+        "end": 37743
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_C03.mov",
+        "start": 16693,
+        "end": 16734
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 37744,
+        "end": 37767
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_C03.mov",
+        "start": 18136,
+        "end": 18159
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 37768,
+        "end": 37801
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B30.mov",
+        "start": 2204,
+        "end": 2237
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 37802,
+        "end": 37942
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B30.mov",
+        "start": 2332,
+        "end": 2472
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 37943,
+        "end": 37983
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B30.mov",
+        "start": 10316,
+        "end": 10356
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 37985,
+        "end": 38009
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B30.mov",
+        "start": 2561,
+        "end": 2585
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 38010,
+        "end": 38028
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B30.mov",
+        "start": 15603,
+        "end": 15621
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 38029,
+        "end": 38058
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B30.mov",
+        "start": 10421,
+        "end": 10450
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 38059,
+        "end": 38120
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B30.mov",
+        "start": 15712,
+        "end": 15773
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 38121,
+        "end": 38210
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B30.mov",
+        "start": 10520,
+        "end": 10609
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 38211,
+        "end": 38251
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B30.mov",
+        "start": 15891,
+        "end": 15931
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 38252,
+        "end": 38280
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B30.mov",
+        "start": 10653,
+        "end": 10681
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 38281,
+        "end": 38345
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B30.mov",
+        "start": 15943,
+        "end": 16007
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 38346,
+        "end": 38357
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B30.mov",
+        "start": 16012,
+        "end": 16023
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 38681,
+        "end": 38724
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B30.mov",
+        "start": 5299,
+        "end": 5342
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 38725,
+        "end": 38753
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B30.mov",
+        "start": 11224,
+        "end": 11252
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 38754,
+        "end": 38769
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B30.mov",
+        "start": 16512,
+        "end": 16527
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 38770,
+        "end": 38777
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B30.mov",
+        "start": 16568,
+        "end": 16575
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 38778,
+        "end": 38805
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B30.mov",
+        "start": 11266,
+        "end": 11293
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 38806,
+        "end": 38809
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B30.mov",
+        "start": 16576,
+        "end": 16579
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 38810,
+        "end": 38821
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B30.mov",
+        "start": 16582,
+        "end": 16593
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 38822,
+        "end": 38837
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B30.mov",
+        "start": 11300,
+        "end": 11315
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 38838,
+        "end": 38850
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B30.mov",
+        "start": 5412,
+        "end": 5424
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 38851,
+        "end": 38891
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_A48.mov",
+        "start": 9290,
+        "end": 9330
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 38892,
+        "end": 38935
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B30.mov",
+        "start": 5462,
+        "end": 5505
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 38989,
+        "end": 39027
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_A48.mov",
+        "start": 12510,
+        "end": 12548
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 39058,
+        "end": 39113
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B29.mov",
+        "start": 5776,
+        "end": 5831
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 39166,
+        "end": 39215
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_A48.mov",
+        "start": 12632,
+        "end": 12681
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 39269,
+        "end": 39336
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_A48.mov",
+        "start": 12846,
+        "end": 12913
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 39337,
+        "end": 39346
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_A48.mov",
+        "start": 14066,
+        "end": 14075
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 39347,
+        "end": 39356
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B30.mov",
+        "start": 5828,
+        "end": 5837
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 39479,
+        "end": 39480
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_A48.mov",
+        "start": 13004,
+        "end": 13005
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 39481,
+        "end": 39541
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_A49.mov",
+        "start": 3233,
+        "end": 3293
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 39542,
+        "end": 39578
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_A49.mov",
+        "start": 1568,
+        "end": 1604
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 39579,
+        "end": 39628
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_A49.mov",
+        "start": 3980,
+        "end": 4029
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 39629,
+        "end": 39661
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B29.mov",
+        "start": 10276,
+        "end": 10308
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 39662,
+        "end": 39668
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_A49.mov",
+        "start": 4031,
+        "end": 4037
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 39669,
+        "end": 39673
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_A49.mov",
+        "start": 1634,
+        "end": 1638
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 39750,
+        "end": 39802
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_A49.mov",
+        "start": 5107,
+        "end": 5159
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 39803,
+        "end": 39876
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B29.mov",
+        "start": 11669,
+        "end": 11742
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 39877,
+        "end": 39951
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_A49.mov",
+        "start": 3541,
+        "end": 3615
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 40047,
+        "end": 40368
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A3.mov",
+        "start": 6986,
+        "end": 7307
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 40369,
+        "end": 40410
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A3.mov",
+        "start": 7313,
+        "end": 7354
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 40411,
+        "end": 40479
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B02.mov",
+        "start": 12111,
+        "end": 12179
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 40480,
+        "end": 40540
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B02.mov",
+        "start": 7659,
+        "end": 7719
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 40541,
+        "end": 40744
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B02.mov",
+        "start": 12228,
+        "end": 12431
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 40745,
+        "end": 40822
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B02.mov",
+        "start": 7858,
+        "end": 7935
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 40823,
+        "end": 40951
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B02.mov",
+        "start": 12439,
+        "end": 12567
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 40952,
+        "end": 41005
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B02.mov",
+        "start": 7959,
+        "end": 8012
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 41006,
+        "end": 41114
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A3.mov",
+        "start": 3398,
+        "end": 3506
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 41115,
+        "end": 41464
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A26.mov",
+        "start": 2654,
+        "end": 3003
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 41620,
+        "end": 41665
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A26.mov",
+        "start": 5710,
+        "end": 5755
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 41819,
+        "end": 41836
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A26.mov",
+        "start": 7224,
+        "end": 7241
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 41877,
+        "end": 41890
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A26.mov",
+        "start": 7377,
+        "end": 7390
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 42030,
+        "end": 42058
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A3.mov",
+        "start": 12241,
+        "end": 12269
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 42059,
+        "end": 42091
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A3.mov",
+        "start": 12270,
+        "end": 12302
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 42092,
+        "end": 42118
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A3.mov",
+        "start": 11218,
+        "end": 11244
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 42119,
+        "end": 42205
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A3.mov",
+        "start": 11261,
+        "end": 11347
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 42206,
+        "end": 42259
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A3.mov",
+        "start": 13068,
+        "end": 13121
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 42260,
+        "end": 42347
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A3.mov",
+        "start": 11370,
+        "end": 11457
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 42348,
+        "end": 42587
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A3.mov",
+        "start": 11460,
+        "end": 11699
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 42588,
+        "end": 42589
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A3.mov",
+        "start": 11838,
+        "end": 11839
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 42590,
+        "end": 42653
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A3.mov",
+        "start": 11700,
+        "end": 11763
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 43186,
+        "end": 43223
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B03.mov",
+        "start": 1678,
+        "end": 1715
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 44182,
+        "end": 44389
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A44.mov",
+        "start": 644,
+        "end": 851
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 44390,
+        "end": 44506
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A45.mov",
+        "start": 5184,
+        "end": 5300
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 44507,
+        "end": 44568
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A45.mov",
+        "start": 2110,
+        "end": 2171
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 44569,
+        "end": 44778
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A45.mov",
+        "start": 5357,
+        "end": 5566
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 44779,
+        "end": 44925
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A45.mov",
+        "start": 2412,
+        "end": 2558
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 44926,
+        "end": 45137
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A45.mov",
+        "start": 5762,
+        "end": 5973
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 45138,
+        "end": 45260
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A44.mov",
+        "start": 12605,
+        "end": 12727
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 45261,
+        "end": 45348
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A45.mov",
+        "start": 6086,
+        "end": 6173
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 45349,
+        "end": 45439
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A44.mov",
+        "start": 12867,
+        "end": 12957
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 45440,
+        "end": 45525
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A45.mov",
+        "start": 6370,
+        "end": 6455
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 45970,
+        "end": 46046
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A45.mov",
+        "start": 3749,
+        "end": 3825
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 46047,
+        "end": 46258
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A45.mov",
+        "start": 7021,
+        "end": 7232
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 46259,
+        "end": 46377
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A45.mov",
+        "start": 4058,
+        "end": 4176
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 46378,
+        "end": 46598
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A45.mov",
+        "start": 7370,
+        "end": 7590
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 46724,
+        "end": 46872
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A44.mov",
+        "start": 7542,
+        "end": 7690
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 46873,
+        "end": 46921
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A4.mov",
+        "start": 10615,
+        "end": 10663
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 46922,
+        "end": 47223
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A4.mov",
+        "start": 4281,
+        "end": 4582
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 47224,
+        "end": 47357
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B03.mov",
+        "start": 6854,
+        "end": 6987
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 47358,
+        "end": 47371
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A4.mov",
+        "start": 6614,
+        "end": 6627
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 47372,
+        "end": 47497
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A4.mov",
+        "start": 6630,
+        "end": 6755
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 47498,
+        "end": 47560
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B03.mov",
+        "start": 7156,
+        "end": 7218
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 47561,
+        "end": 47830
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A4.mov",
+        "start": 8833,
+        "end": 9102
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 47831,
+        "end": 48082
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A4.mov",
+        "start": 5180,
+        "end": 5431
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 48083,
+        "end": 48281
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A4.mov",
+        "start": 7332,
+        "end": 7530
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 48282,
+        "end": 48394
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A4.mov",
+        "start": 1898,
+        "end": 2010
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 48395,
+        "end": 48533
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A4.mov",
+        "start": 7604,
+        "end": 7742
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 48534,
+        "end": 48599
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B03.mov",
+        "start": 8208,
+        "end": 8273
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 48600,
+        "end": 48705
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A4.mov",
+        "start": 7753,
+        "end": 7858
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 48759,
+        "end": 48970
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A5.mov",
+        "start": 4496,
+        "end": 4707
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 48971,
+        "end": 48976
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A5.mov",
+        "start": 6542,
+        "end": 6547
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 48977,
+        "end": 49010
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A5.mov",
+        "start": 4708,
+        "end": 4741
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 49013,
+        "end": 49170
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A5.mov",
+        "start": 4742,
+        "end": 4899
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 49171,
+        "end": 49304
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B04.mov",
+        "start": 4699,
+        "end": 4832
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 49305,
+        "end": 49362
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE7_Reel_C02.mov",
+        "start": 3929,
+        "end": 3986
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 49363,
+        "end": 49479
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B04.mov",
+        "start": 4983,
+        "end": 5099
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 49480,
+        "end": 49543
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A5.mov",
+        "start": 11804,
+        "end": 11867
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 49544,
+        "end": 49609
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B04.mov",
+        "start": 5165,
+        "end": 5230
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 49610,
+        "end": 49678
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A5.mov",
+        "start": 13001,
+        "end": 13069
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 49679,
+        "end": 49732
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B04.mov",
+        "start": 5266,
+        "end": 5319
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 49733,
+        "end": 49776
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A5.mov",
+        "start": 13128,
+        "end": 13171
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 49777,
+        "end": 49817
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B04.mov",
+        "start": 2407,
+        "end": 2447
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 49818,
+        "end": 49869
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A6.mov",
+        "start": 3773,
+        "end": 3824
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 49870,
+        "end": 49906
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B04.mov",
+        "start": 2448,
+        "end": 2484
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 49907,
+        "end": 49951
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A6.mov",
+        "start": 3832,
+        "end": 3876
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 49952,
+        "end": 49971
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A6.mov",
+        "start": 3894,
+        "end": 3913
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 49972,
+        "end": 50013
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B04.mov",
+        "start": 5090,
+        "end": 5131
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 50014,
+        "end": 50039
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A6.mov",
+        "start": 3914,
+        "end": 3939
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 50040,
+        "end": 50099
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B04.mov",
+        "start": 2687,
+        "end": 2746
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 50100,
+        "end": 50158
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A6.mov",
+        "start": 3978,
+        "end": 4036
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 50159,
+        "end": 50272
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B03.mov",
+        "start": 13184,
+        "end": 13297
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 50273,
+        "end": 50437
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A6.mov",
+        "start": 5298,
+        "end": 5462
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 50438,
+        "end": 50685
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B04.mov",
+        "start": 5733,
+        "end": 5980
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 50686,
+        "end": 50761
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A6.mov",
+        "start": 5712,
+        "end": 5787
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 50762,
+        "end": 50896
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B04.mov",
+        "start": 6029,
+        "end": 6163
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 50897,
+        "end": 50935
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A6.mov",
+        "start": 5906,
+        "end": 5944
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 50936,
+        "end": 50985
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B04.mov",
+        "start": 6177,
+        "end": 6226
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 51135,
+        "end": 51197
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B31.mov",
+        "start": 3900,
+        "end": 3962
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 51309,
+        "end": 51341
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B31.mov",
+        "start": 4128,
+        "end": 4160
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 51474,
+        "end": 51474
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B31.mov",
+        "start": 6428,
+        "end": 6428
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 51571,
+        "end": 51597
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B31.mov",
+        "start": 4337,
+        "end": 4363
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 51709,
+        "end": 51734
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B31.mov",
+        "start": 5505,
+        "end": 5530
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 51925,
+        "end": 51941
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B31.mov",
+        "start": 4468,
+        "end": 4484
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 51988,
+        "end": 52031
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B31.mov",
+        "start": 1539,
+        "end": 1582
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 52068,
+        "end": 52079
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B31.mov",
+        "start": 1618,
+        "end": 1629
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 52128,
+        "end": 52139
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B31.mov",
+        "start": 4877,
+        "end": 4888
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 52258,
+        "end": 52270
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B31.mov",
+        "start": 4918,
+        "end": 4930
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 52271,
+        "end": 52293
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B31.mov",
+        "start": 4937,
+        "end": 4959
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 52930,
+        "end": 52966
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B31.mov",
+        "start": 11685,
+        "end": 11721
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 53101,
+        "end": 53137
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B31.mov",
+        "start": 9652,
+        "end": 9688
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 53138,
+        "end": 53175
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B31.mov",
+        "start": 9700,
+        "end": 9737
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 53385,
+        "end": 53471
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B31.mov",
+        "start": 9972,
+        "end": 10058
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 53543,
+        "end": 53598
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B31.mov",
+        "start": 10061,
+        "end": 10116
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 53869,
+        "end": 53892
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B31.mov",
+        "start": 12540,
+        "end": 12563
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 54017,
+        "end": 54163
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B31.mov",
+        "start": 12675,
+        "end": 12821
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 54200,
+        "end": 54282
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B31.mov",
+        "start": 12859,
+        "end": 12941
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 54805,
+        "end": 55026
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A46.mov",
+        "start": 7001,
+        "end": 7222
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 55027,
+        "end": 55064
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A47.mov",
+        "start": 6774,
+        "end": 6811
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 55065,
+        "end": 55111
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A47.mov",
+        "start": 10417,
+        "end": 10463
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 55170,
+        "end": 55210
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A46.mov",
+        "start": 9213,
+        "end": 9253
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 55211,
+        "end": 55274
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A46.mov",
+        "start": 9865,
+        "end": 9928
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 55619,
+        "end": 55652
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A46.mov",
+        "start": 10099,
+        "end": 10132
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 56052,
+        "end": 56075
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A46.mov",
+        "start": 13569,
+        "end": 13592
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 56136,
+        "end": 56211
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A47.mov",
+        "start": 13231,
+        "end": 13306
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 56271,
+        "end": 56282
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A46.mov",
+        "start": 14528,
+        "end": 14539
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 56326,
+        "end": 56421
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A47.mov",
+        "start": 2326,
+        "end": 2421
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 56482,
+        "end": 56955
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A47.mov",
+        "start": 2537,
+        "end": 3010
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 57358,
+        "end": 57444
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A7.mov",
+        "start": 502,
+        "end": 588
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 57445,
+        "end": 58081
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A7.mov",
+        "start": 11295,
+        "end": 11931
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 58082,
+        "end": 58116
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B05.mov",
+        "start": 11854,
+        "end": 11888
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 58117,
+        "end": 58166
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B05.mov",
+        "start": 11932,
+        "end": 11981
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 58167,
+        "end": 58227
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B06.mov",
+        "start": 1012,
+        "end": 1072
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 58228,
+        "end": 58311
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B05.mov",
+        "start": 12043,
+        "end": 12126
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 58312,
+        "end": 58545
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B06.mov",
+        "start": 1637,
+        "end": 1870
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 58546,
+        "end": 58639
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A8.mov",
+        "start": 1970,
+        "end": 2063
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 58640,
+        "end": 58934
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A8.mov",
+        "start": 2069,
+        "end": 2363
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 58935,
+        "end": 58950
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A8.mov",
+        "start": 2374,
+        "end": 2389
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 58951,
+        "end": 58973
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B06.mov",
+        "start": 2264,
+        "end": 2286
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 58974,
+        "end": 58999
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B06.mov",
+        "start": 2349,
+        "end": 2374
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 59000,
+        "end": 59145
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B05.mov",
+        "start": 12741,
+        "end": 12886
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 59146,
+        "end": 59297
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B06.mov",
+        "start": 2504,
+        "end": 2655
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 59298,
+        "end": 59400
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B05.mov",
+        "start": 13072,
+        "end": 13174
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 59401,
+        "end": 59513
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B06.mov",
+        "start": 2808,
+        "end": 2920
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 59514,
+        "end": 59667
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B05.mov",
+        "start": 13331,
+        "end": 13484
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 59668,
+        "end": 59707
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B06.mov",
+        "start": 3098,
+        "end": 3137
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 59708,
+        "end": 59873
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B05.mov",
+        "start": 13544,
+        "end": 13709
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 59874,
+        "end": 59928
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B06.mov",
+        "start": 3359,
+        "end": 3413
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 59929,
+        "end": 59977
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B05.mov",
+        "start": 13772,
+        "end": 13820
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 59978,
+        "end": 60117
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B06.mov",
+        "start": 3503,
+        "end": 3642
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 60118,
+        "end": 60198
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B05.mov",
+        "start": 13842,
+        "end": 13922
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 60199,
+        "end": 60234
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B06.mov",
+        "start": 3640,
+        "end": 3675
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 60235,
+        "end": 60278
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B05.mov",
+        "start": 13974,
+        "end": 14017
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 60279,
+        "end": 60319
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B06.mov",
+        "start": 3691,
+        "end": 3731
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 60320,
+        "end": 60619
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A7.mov",
+        "start": 14067,
+        "end": 14366
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 60620,
+        "end": 60771
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE5_Reel_B04.mov",
+        "start": 11826,
+        "end": 11977
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 60772,
+        "end": 60969
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A8.mov",
+        "start": 4376,
+        "end": 4573
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 60970,
+        "end": 61082
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A13.mov",
+        "start": 9038,
+        "end": 9150
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 61125,
+        "end": 61178
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A14.mov",
+        "start": 1306,
+        "end": 1359
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 61259,
+        "end": 61285
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A15.mov",
+        "start": 4896,
+        "end": 4922
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 61286,
+        "end": 61334
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A14.mov",
+        "start": 7069,
+        "end": 7117
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 61335,
+        "end": 61391
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A15.mov",
+        "start": 5071,
+        "end": 5127
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 61392,
+        "end": 61420
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A14.mov",
+        "start": 7230,
+        "end": 7258
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 61421,
+        "end": 61509
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A15.mov",
+        "start": 5225,
+        "end": 5313
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 61510,
+        "end": 61564
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A14.mov",
+        "start": 10137,
+        "end": 10191
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 61565,
+        "end": 61601
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A15.mov",
+        "start": 5405,
+        "end": 5441
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 61602,
+        "end": 61631
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A14.mov",
+        "start": 10567,
+        "end": 10596
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 61632,
+        "end": 61682
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A15.mov",
+        "start": 5677,
+        "end": 5727
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 61683,
+        "end": 61804
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A14.mov",
+        "start": 10638,
+        "end": 10759
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 61805,
+        "end": 61842
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A15.mov",
+        "start": 1697,
+        "end": 1734
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 61843,
+        "end": 61997
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A14.mov",
+        "start": 10804,
+        "end": 10958
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 61998,
+        "end": 62035
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A14.mov",
+        "start": 13972,
+        "end": 14009
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 62036,
+        "end": 62209
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A14.mov",
+        "start": 8229,
+        "end": 8402
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 62210,
+        "end": 62282
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A14.mov",
+        "start": 14250,
+        "end": 14322
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 62283,
+        "end": 62353
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A14.mov",
+        "start": 2635,
+        "end": 2705
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 62354,
+        "end": 62609
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A13.mov",
+        "start": 3631,
+        "end": 3886
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 62610,
+        "end": 62641
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE6_Reel_B09.mov",
+        "start": 13978,
+        "end": 14009
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 62642,
+        "end": 62688
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A14.mov",
+        "start": 8548,
+        "end": 8594
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 62689,
+        "end": 62745
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A15.mov",
+        "start": 2292,
+        "end": 2348
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 62746,
+        "end": 62778
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A14.mov",
+        "start": 8627,
+        "end": 8659
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 62779,
+        "end": 62871
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A15.mov",
+        "start": 2405,
+        "end": 2497
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 62872,
+        "end": 62925
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A14.mov",
+        "start": 11475,
+        "end": 11528
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 62926,
+        "end": 63053
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A15.mov",
+        "start": 2552,
+        "end": 2679
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 63054,
+        "end": 63105
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A14.mov",
+        "start": 8960,
+        "end": 9011
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 63106,
+        "end": 63139
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A15.mov",
+        "start": 2841,
+        "end": 2874
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 63140,
+        "end": 63239
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A14.mov",
+        "start": 11908,
+        "end": 12007
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 63270,
+        "end": 63360
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A13.mov",
+        "start": 12578,
+        "end": 12668
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 63613,
+        "end": 63634
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A13.mov",
+        "start": 7439,
+        "end": 7460
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 64249,
+        "end": 64393
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A29.mov",
+        "start": 1687,
+        "end": 1831
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 64394,
+        "end": 64536
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A29.mov",
+        "start": 10345,
+        "end": 10487
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 64537,
+        "end": 64574
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A29.mov",
+        "start": 1989,
+        "end": 2026
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 64575,
+        "end": 64654
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A29.mov",
+        "start": 10526,
+        "end": 10605
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 64655,
+        "end": 65038
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A29.mov",
+        "start": 8134,
+        "end": 8517
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 65039,
+        "end": 65128
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A29.mov",
+        "start": 13285,
+        "end": 13374
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 65129,
+        "end": 65401
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A29.mov",
+        "start": 8666,
+        "end": 8938
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 65402,
+        "end": 65451
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A29.mov",
+        "start": 13683,
+        "end": 13732
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 65452,
+        "end": 65489
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A29.mov",
+        "start": 2998,
+        "end": 3035
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 65490,
+        "end": 65541
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A29.mov",
+        "start": 13775,
+        "end": 13826
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 65542,
+        "end": 65562
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A29.mov",
+        "start": 9158,
+        "end": 9178
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 65563,
+        "end": 65580
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A29.mov",
+        "start": 9180,
+        "end": 9197
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 65581,
+        "end": 65626
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A29.mov",
+        "start": 13894,
+        "end": 13939
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 65627,
+        "end": 65780
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A30.mov",
+        "start": 2319,
+        "end": 2472
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 65781,
+        "end": 66132
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A30.mov",
+        "start": 1421,
+        "end": 1772
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 66133,
+        "end": 66143
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A30.mov",
+        "start": 840,
+        "end": 850
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 66267,
+        "end": 66273
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE4_Reel_A47.mov",
+        "start": 13545,
+        "end": 13551
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 69974,
+        "end": 69976
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A3.mov",
+        "start": 13514,
+        "end": 13516
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 69977,
+        "end": 69979
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY1_Reel_A8.mov",
+        "start": 4827,
+        "end": 4829
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 69980,
+        "end": 69980
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A11.mov",
+        "start": 13526,
+        "end": 13526
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 70651,
+        "end": 71018
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A25.mov",
+        "start": 1114,
+        "end": 1481
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 71019,
+        "end": 71023
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A25.mov",
+        "start": 2763,
+        "end": 2767
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 71024,
+        "end": 71125
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A25.mov",
+        "start": 2768,
+        "end": 2869
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 71126,
+        "end": 71230
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_TAPE3_Reel_A25.mov",
+        "start": 1583,
+        "end": 1687
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 71231,
+        "end": 71683
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A16.mov",
+        "start": 2255,
+        "end": 2707
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 71684,
+        "end": 71764
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A16.mov",
+        "start": 8674,
+        "end": 8754
+      }
+    },
+    {
+      "searchTerm": {
+        "movieId": "Charmed_Ep_20_Love_Hurts_2398_ENG_20_rev1.mov",
+        "start": 71765,
+        "end": 71832
+      },
+      "match": {
+        "movieId": "CHARMED_LOVE_HURTS_PROD4398020_DAY2_Reel_A16.mov",
+        "start": 7705,
+        "end": 7772
+      }
+    }
+  ],
+  "notSeenByOperator": false,
+  "owner": "user@videogorillas.com"
+}

@@ -1,22 +1,27 @@
+import BigfootDB from './model/BigfootDB';
+import {graphql, buildSchema} from 'graphql';
+import root from './model/resolvers';
+
 console.log("hello 42!");
 
-import { graphql, buildSchema } from 'graphql';
 
-// Construct a schema, using GraphQL schema language
-var schema = buildSchema(`
-  type Query {
-    hello: String
-  }
-`);
+async function main () {
+    const project = await fetch('/api/project').then(r => r.json());
+    console.log(project);
+    const db = new BigfootDB(project.id, 1);
+    // const m = await db.populateMatches(project.matches);
+    const context = {db};
+    // Construct a schema, using GraphQL schema language
+    const schema = await fetch('/api/schema').then(r => r.text()).then(typeDefs => buildSchema(typeDefs));
+    console.log(schema);
 
-// The root provides a resolver function for each API endpoint
-var root = {
-    hello: () => {
-        return 'Hello world!';
-    },
-};
+    // Run the GraphQL query and print out the response
+    graphql(schema, '{ matches{movieId} }', root, context).then((response) => {
+        console.log(response);
+    });
 
-// Run the GraphQL query '{ hello }' and print out the response
-graphql(schema, '{ hello }', root).then((response) => {
-    console.log(response);
-});
+}
+
+main();
+
+

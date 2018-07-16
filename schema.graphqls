@@ -1,0 +1,22 @@
+schema {
+    query: Query
+    #    mutation: Mutation
+}
+
+type Moment {
+    movieId: String
+    start: Int
+    end: Int
+}
+
+type MomentsPair {
+    searchTerm:Moment
+    match:Moment
+}
+type Query {
+    matches: [Moment!]!
+}
+
+#type Mutation {
+#
+#}
