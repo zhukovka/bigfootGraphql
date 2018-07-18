@@ -11,6 +11,17 @@ app.get('/api/project', (req, res) => {
     };
     return res.sendFile('/data/project.json', options);
 });
+
+app.get('/api/videos', (req, res) => {
+    const options = {
+        root: __dirname,
+        headers: {
+            'Content-Type': 'application/json'
+        }
+    };
+    return res.sendFile('/data/videos.json', options);
+});
+
 app.get('/api/schema', (req, res) => {
     const options = {
         root: __dirname,
