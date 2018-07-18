@@ -4,6 +4,8 @@ const CACHED_URLS = [
     "/index.html",
     // Stylesheets
     // JavaScript
+    "/main.js",
+    "/worker.js",
     // Images
     // JSON
 ];
@@ -22,17 +24,41 @@ self.addEventListener("fetch", function (event) {
     // Handle requests for index.html
     if (requestURL.pathname === "/" || requestURL.pathname === "/index.html") {
         let path = "/index.html";
-        event.respondWith(cacheToNetwork(path));
+        event.respondWith(cacheToNetworkUpdates(path));
     }
     // Handle requests for project
     else if (requestURL.pathname.includes("/api/project")) {
-        event.respondWith(networkToCache(request));
+        event.respondWith(networkToCacheUpdates(request));
     }
     // Handle requests for videos
     else if (requestURL.pathname.includes("/api/videos")) {
+        event.respondWith(cacheToNetworkUpdates(request));
+    }
+    // Handle requests for files cached during installation
+    else if (
+        CACHED_URLS.includes(requestURL.href) ||
+        CACHED_URLS.includes(requestURL.pathname)
+    ) {
         event.respondWith(cacheToNetwork(request));
     }
+
 });
+
+
+/**
+ * cache, falling back to network pattern
+ * respond to requests with content from the cache. If, however,
+ * the content is not found in the cache, the service worker will attempt to fetch it from the network
+ * @param request
+ * @returns {Promise<Response>}
+ */
+function cacheToNetwork (request) {
+    return caches.open(CACHE_NAME).then(function (cache) {
+        return cache.match(request).then(function (response) {
+            return response || fetch(request);
+        });
+    })
+}
 
 /**
  * cache, falling back to network with frequent updates
@@ -41,7 +67,7 @@ self.addEventListener("fetch", function (event) {
  * @param request
  * @returns {Promise<Response>}
  */
-function cacheToNetwork (request) {
+function cacheToNetworkUpdates (request) {
     return caches.open(CACHE_NAME).then(function (cache) {
         return cache.match(request).then(function (cachedResponse) {
             const fetchPromise = fetch(request).then(function (networkResponse) {
@@ -60,7 +86,7 @@ function cacheToNetwork (request) {
  * @param path
  * @returns {Promise<Response>}
  */
-function networkToCache (path) {
+function networkToCacheUpdates (path) {
     return caches.open(CACHE_NAME).then(function (cache) {
         return fetch(path).then(function (networkResponse) {
             cache.put(path, networkResponse.clone());
